@@ -100,6 +100,16 @@ Fibonacci digunakan untuk mengukur target Wave di dalam ke 5 perbedaan type EW. 
 
 ## Motive Waves (Impulse)
 
+In EW, motive waves adalah sebuah gelombang yang searah dengan tren besar. Ada 5 jenis motive waves, tetapi di market akhir-akhir ini, kita hanya bisa menemuka 3 jenis waves, maka kita menyebutnya motive sequence wave
+
+
+### Impulse (Motive Waves)
+
+
+![EW6](https://user-images.githubusercontent.com/27078712/87817465-300b0e00-c893-11ea-99b0-29d29b8f4832.PNG)
+
+Guidelines:
+
 *
 * 
 
