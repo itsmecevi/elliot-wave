@@ -55,4 +55,28 @@
 
 ## Fibonacci
 
+### Intro
+
+* Diciptakan oleh Leonardo Fibonacci da Pisa pada tahun 1242
+* Terinspirasi oleh piramida di giza
+* Merubah angka romawi menjadi angka arab seperti yang kita lihat saat ini
+
+### Penjumlahan Fibonacci
+
+* 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89 sampai dengan tak terhingga
+* 1.618 disebut Golden Ration dimana hasilnya merupakah pembagian antara suatu bilangan fibo dengan bilangan sebelumnya
+* Fibonacci Ratio: 
+
+![EW3](https://user-images.githubusercontent.com/27078712/87775406-3f1c9c80-c850-11ea-8e81-e1c716c73e86.PNG)
+
+
+Beberapa aspek penting angka pada Fibonacci adalah sbb:
+
+* 0.618 dibentuk dari pembagian bilangan fibo dengan bilangan sebelumnya
+* 0.382 dibentuk dari pembagian angka fibo dengan angka fibo 2 level setelahnya
+
+
+### Fibonacci Retracement and Extension
+
+
 
