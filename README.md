@@ -110,9 +110,23 @@ In EW, motive waves adalah sebuah gelombang yang searah dengan tren besar. Ada 5
 
 Guidelines:
 
-*
-* 
+* Impulse wave terbagi menjadi 5 jenis. Wave 1, 2,3 4, 5
+* Wave 1, 3, 5 adalah impulse. Subdivisi atau titik awal sebelum wave tersebut adalah ((i)), ((ii)), ((iii)), ((iv)), and ((v))
+* Wave 2 tidak bisa bisa retrace atau berbalik arah lebih dari titik awal wave 1
+* Wave 3 tidak bisa menjadi wave yang paling pendek dari 3 wave impulse, yaitu 1, 3, 5
+* Wave 4 tidak bisa overlap atau melebihi titik harga dari wave 1
+* Wave 5 merupakan titik akhir wave dan sebagai momentum divergen (berkembang atau trend)
 
+
+Fibonacci Ratio Relationship:
+
+* Wave 2 50%, 61.8%, 76.4%, atau 85.4% dari wave 1
+* Wave 3 161.8%, 200%, 261.8%, atau 323.6% dari wave 1 sampai wave 2
+* Wave 4 14.6%, 23.6%, atau 38.2% dari wave 3, tapi tidak lebih dari 50%
+* Ada 3 cara menentukan wave 5: 
+  * Wave 5 adalah inverse 123.6-161.18% retracement dari wave 4
+  * Wave 5 sama dengan wave 1
+  * Wave 5 merupakan 61.8% dari wave 1 sampai dengan wave 3
 
 
 
