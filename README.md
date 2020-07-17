@@ -98,6 +98,11 @@ Fibonacci digunakan untuk mengukur target Wave di dalam ke 5 perbedaan type EW. 
 
 
 
+## Motive Waves (Impulse)
+
+*
+* 
+
 
 
 
