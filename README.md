@@ -78,5 +78,27 @@ Beberapa aspek penting angka pada Fibonacci adalah sbb:
 
 ### Fibonacci Retracement and Extension
 
+![EW4](https://user-images.githubusercontent.com/27078712/87776308-c28abd80-c851-11ea-86f4-36084db05b82.PNG)
+
+
+Fibonacci Retracement-> Reversal
+Fibonacci Extension -> Take Profit
+
+
+## Fibonacci & Elliot Wave
+
+Fibonacci digunakan untuk mengukur target Wave di dalam ke 5 perbedaan type EW. Berikut merupakan angka level support dan resistance tersebut untuk digunakan di EW
+
+* Wave 2 is typically 50%, 61.8%, 76.4%, or 85.4% of wave 1
+* Wave 3 is typically 161.8% of wave 1
+* Wave 4 is typically 14.6%, 23.6%, or 38.2% of wave 3
+* Wave 5 is typically 61.8%, 100%, or 123.6% of wave 1
+
+![EW5](https://user-images.githubusercontent.com/27078712/87776853-a0de0600-c852-11ea-9c77-3d30dd624bad.png)
+
+
+
+
+
 
 
