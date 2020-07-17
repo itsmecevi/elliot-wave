@@ -22,7 +22,7 @@
   * Wave 3 bukan merupakan wave yang terpendek
   * Wave 4 tidak akan pernah masuk wilayah harga wave 1
 
-## Jenis Wave
+### Jenis Wave
 
 * EW mempunyai 2 jenis Wave, Motive dan Corrective
 * Motive ditandai dengan nomor 1, 2, 3, 4, dan 5
@@ -31,9 +31,28 @@
 
 ![EW1](https://user-images.githubusercontent.com/27078712/87756991-0cfd4180-c834-11ea-8cd6-8fcc85ccfd5b.PNG)
 
-## EW Degree
+### EW Degree
+
+* EW degree adalah sebuah sistem untuk mengindentifikasi sebuah siklus pergerakan market
+* EW mempunyai 9 jenis degree
+* Grand Super Cycle biasanya ditemukan di pola TF weekly dan monthly
+* Subminuette Cycle biasanya ditemuka di pola TF hourly
+
+![EW2](https://user-images.githubusercontent.com/27078712/87770755-a2ef9700-c849-11ea-8aab-7e1a452f1758.PNG)
 
 
+### Computer-based Trading / Algorithm
 
+* Trading dengan menggunakan mesin komputer dimana memadukan antara teknikal, teori peluang, dan statistik sehingga mengihilangkan aspek emosional
+* Dengan bantuan mesin komputer, trading akan lebih sangat super cepat buy dan sell berdasarkan algoritma tertentu
+* EW dikembangkan pada tahun 1930 dengan data saham pada saat itu, apakah EW masih bisa diaplikasikan pada saat sekarang ini?
+
+### New EW
+
+* 4 pasar keuangan utama: saham, obligasi, forex, dan komoditi
+* Tapi sesungguhnya EW dibuat untuk pasar saham
+* Pada saat ini, lebih banyak EW terbukti justru bukan di 5 waves tetapi 3 waves, oleh karena itu tidak disarankan OP hanya bergantung pada EW
+
+## Fibonacci
 
 
