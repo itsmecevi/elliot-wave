@@ -11,7 +11,9 @@
 * Harap dicatat, bahwa ternyata EW memiliki subjektivitas tinggi dalam melihat pola gelombang atau wave yang disajikan, oleh karena itu mungkin saja ada beberapa versi dari pakar EW. Minimal EW membantu trader untuk membuat trading plan yang lebih baik
 
 
-### EW Basics
+### EW Basics:
+
+
 
 
 
